@@ -1,1 +1,1 @@
-# Satelitarna-Interferometria-Radarowa
+# SatelitarnaInterferometriaRadarowa
